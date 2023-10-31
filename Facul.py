@@ -5,7 +5,7 @@ matriz = [linha] * n
 print(matriz)
 
 for l in range(n):
-    linha = []
+    linha = [] # não precisava
     for c in range(n):
         numero = int(
             input(" digite o numero que ficara armazezanod0 {},{} :".format(l, c)))
