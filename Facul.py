@@ -13,3 +13,10 @@ for l in range(n):
     matriz[l] = linha
 
 print(matriz)
+
+
+'''
+a = "Carlos@123"
+x = a.split("@")[0]
+print(x, a)
+'''
